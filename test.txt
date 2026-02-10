@@ -1,0 +1,3 @@
+Hello! this is just a test :D
+just trying to get used to Git :)
+It's cool
